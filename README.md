@@ -14,11 +14,6 @@ Install Node.js
 ```
 npm install cypress --save-dev
 ``` 
-4. Install Cypress Xpath : 
-
-```
-npm install -D cypress-xpath
-```
 
 ## Setup E2E Tests
 
