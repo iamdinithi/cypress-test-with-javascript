@@ -32,6 +32,6 @@ jobs:
         with :
           name : cypress-execution-report
           path : cypress/reports/html
-          retention-days : 3
+          retention-days : 1
 
 
