@@ -1,4 +1,4 @@
-# Test Automation - Cypress
+# Test Automation - Cypress with CI
 
 
 ### Prerequisites
